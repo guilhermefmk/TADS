@@ -10,7 +10,6 @@ public class ExemploVar {
        float trab = in.nextFloat();
 
        float media = (av1 + av2 + av3 + trab)/4;
-
        System.out.printf("Sua média foi %.2f\n",media);
         
     }
