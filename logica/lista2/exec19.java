@@ -9,9 +9,9 @@ public class exec19 {
     
         System.out.println("Comprimento?");
         comprimento = in.nextFloat();
-        System.out.println("Altura");
+        System.out.println("Altura?");
         altura = in.nextFloat();
-        System.out.println("Largura");
+        System.out.println("Largura?");
         largura = in.nextFloat();
         areaTotal = ((largura * 2) * altura) + ((comprimento * 2) * altura);
         Qtcaixas = areaTotal / 1.5f;

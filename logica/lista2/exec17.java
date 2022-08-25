@@ -1,6 +1,5 @@
 import java.util.*;
 
-import javax.swing.plaf.synth.SynthScrollBarUI;
 
 public class exec17 {
     public static void main(String[] args) {

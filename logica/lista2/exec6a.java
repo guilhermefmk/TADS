@@ -4,7 +4,7 @@ public class exec6a {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         Calendar c = Calendar.getInstance();
-        int ano_user,mes_user,dia_user,result,ano_atual,mes_atual,dia_atual,idade_ano = 0,idade_mes = 0,idade_dia = 0,diasvida;
+        int ano_user,mes_user,dia_user,ano_atual,mes_atual,dia_atual,idade_ano = 0,idade_mes = 0,idade_dia = 0,diasvida;
     
         System.out.println("Digite sua data de nascimento => %d %m %a");
         dia_user = in.nextInt();
